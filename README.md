@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Rishav Kumar** 
 
-Welcome to my GitHub! I’m a Data Analyst with a B. Tech in IT and advanced training in data analysis from Masai. I specialize in extracting insights from data through visualization, machine learning, and automation.  
+Welcome to my GitHub! I’m a Data Analyst with a B. Tech in Information Technology and advanced training in data analysis from Masai. I specialize in extracting insights from data through visualization, machine learning, and automation.  
 
 ---
 
